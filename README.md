@@ -39,7 +39,7 @@ O objetivo foi explorar como vendas, lucro e eficiência operacional se comporta
 ---
 
 ## 📷 Visual do Dashboard
-![Dashboard](dashboard.png)
+![Dashboard] imagemdashboard.png
 
 ---
 
