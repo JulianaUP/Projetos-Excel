@@ -33,13 +33,13 @@ O objetivo foi explorar como vendas, lucro e eficiência operacional se comporta
 ---
 
 ## 📁 Estrutura do Projeto
-- `coca-cola-dashboard.xlsx` → arquivo com análise e dashboard
-- `dashboard.png` → imagem do dashboard
+- `coca-cola- sales dashboard.xlsx` → arquivo com análise e dashboard
+- `imagem dash coca-sales.png` → imagem do dashboard
 
 ---
 
 ## 📷 Visual do Dashboard
-![Dashboard] imagemdashboard.png
+![Dashboard]imagem dash coca-sales.png
 
 ---
 
