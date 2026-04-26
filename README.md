@@ -38,11 +38,6 @@ O objetivo foi explorar como vendas, lucro e eficiência operacional se comporta
 
 ---
 
-## 📷 Visual do Dashboard
-![Dashboard]imagem dash coca-sales.png
-
----
-
 ## Conclusão
 A análise mostra que apenas o volume de vendas não é suficiente para avaliar a performance do negócio. Fatores como eficiência operacional e variações regionais são fundamentais para uma análise mais estratégica.
 
