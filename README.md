@@ -54,7 +54,3 @@ https://www.kaggle.com/
 
 ---
 
-## 🚀 Próximos Passos
-- Análise por categoria de produto
-- Aprofundamento em margens por região
-- Construção de dashboard em Power BI
